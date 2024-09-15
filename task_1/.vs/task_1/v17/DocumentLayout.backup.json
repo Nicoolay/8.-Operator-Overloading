@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\\u041C\u043E\u0434\u0443\u043B\u044C \u0411\u0430\u0437\u043E\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\8. Operator Overloading\\task_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD57C776-856A-404D-922B-CE78B3B40AE2}|task_1\\task_1.vcxproj|C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\\u041C\u043E\u0434\u0443\u043B\u044C \u0411\u0430\u0437\u043E\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\8. Operator Overloading\\task_1\\task_1\\task_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD57C776-856A-404D-922B-CE78B3B40AE2}|task_1\\task_1.vcxproj|solutionrelative:task_1\\task_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task_1.cpp",
+              "DocumentMoniker": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\\u041C\u043E\u0434\u0443\u043B\u044C \u0411\u0430\u0437\u043E\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\8. Operator Overloading\\task_1\\task_1\\task_1.cpp",
+              "RelativeDocumentMoniker": "task_1\\task_1.cpp",
+              "ToolTip": "C:\\Users\\rozhn\\Desktop\\\u0423\u0447\u0435\u0431\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0414\u0417\\\u041C\u043E\u0434\u0443\u043B\u044C \u0411\u0430\u0437\u043E\u0432\u043E\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\8. Operator Overloading\\task_1\\task_1\\task_1.cpp",
+              "RelativeToolTip": "task_1\\task_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-14T12:45:12.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
